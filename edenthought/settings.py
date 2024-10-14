@@ -1,5 +1,5 @@
 # - Import and initialise our environment variables
-import environ # type: ignore
+import environ
 
 from pathlib import Path
 
